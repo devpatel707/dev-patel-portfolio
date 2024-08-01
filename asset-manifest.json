@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dev-patel-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/dev-patel-portfolio/static/js/main.b7b4af80.js",
+    "static/media/dev1.jpg": "/dev-patel-portfolio/static/media/dev1.fa41059da2e7c0acbdce.jpg",
+    "index.html": "/dev-patel-portfolio/index.html",
+    "main.bf538fe7.css.map": "/dev-patel-portfolio/static/css/main.bf538fe7.css.map",
+    "main.b7b4af80.js.map": "/dev-patel-portfolio/static/js/main.b7b4af80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b7b4af80.js"
+  ]
+}
